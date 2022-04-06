@@ -45,7 +45,10 @@
   <img alt="TF" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
 </p>
 
-
+<p align="center">
+    
+  <img align='center' src="https://activity-graph.herokuapp.com/graph?username=DevanshMathur10&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 
 
