@@ -1,5 +1,5 @@
 
-<img src="images/6234068.jpg"/>
+<img src="images/nice.jpg"/>
 
 <br>
 <h3 align='center'>Hello There!</h3>
@@ -46,8 +46,20 @@
 </p>
 
 <p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshMathur10&theme=dracula&hide_border=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=DevanshMathur10&theme=dracula&hide_border=true&show_icons=true" />
+</p>
+
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Heatherbit&theme=dracula&hide_border=true&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Sicurezza&theme=dracula&hide_border=true&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Car_Servicing_App&theme=dracula&hide_border=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Morse_code&theme=dracula&hide_border=true&show_icons=true" />
+</p>
+ 
+<p align="center">
     
-  <img align='center' src="https://activity-graph.herokuapp.com/graph?username=DevanshMathur10&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img align='center' src="https://activity-graph.herokuapp.com/graph?username=DevanshMathur10&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
