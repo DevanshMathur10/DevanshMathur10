@@ -11,7 +11,7 @@
 
 <p align='center'>
  <img alt="TF" src="https://img.shields.io/badge/VS%20Code-373b42?style=for-the-badge&logo=visual-studio-code&logoColor=black"/>
- <img alt="TF" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+ <!--<img alt="TF" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>-->
  
 </p>
 <h4 align='center'><strong>Languages</strong></h4>
