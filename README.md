@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=DevanshMathur10&label=Profile Views&color=blueviolet&style=flat-square" alt="Devansh Mathur" /> 
+ <img src="https://komarev.com/ghpvc/?username=DevanshMathur10&label=Profile Views&color=blueviolet&style=for-the-badge" alt="Devansh Mathur" /> 
 </p>
 
 
