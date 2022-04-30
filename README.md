@@ -57,7 +57,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Edlexic&theme=dracula&hide_border=true&show_icons=true" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Heatherbit&theme=dracula&hide_border=true&show_icons=true" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Sicurezza&theme=dracula&hide_border=true&show_icons=true" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Car_Servicing_App&theme=dracula&hide_border=true&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Sancturit&theme=dracula&hide_border=true&show_icons=true" />
   
 </p>
  
