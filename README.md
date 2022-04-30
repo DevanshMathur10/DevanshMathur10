@@ -66,7 +66,9 @@
   <img align='center' src="https://activity-graph.herokuapp.com/graph?username=DevanshMathur10&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=DevanshMathur10&label=Profile Views&color=blueviolet&style=flat-square" alt="Devansh Mathur" /> 
+</p>
 
 
 
