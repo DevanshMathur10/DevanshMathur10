@@ -36,8 +36,10 @@
 <h4 align='center'><strong>Competitive Coding</strong></h4>
 <p align='center'>
   <img alt="TF" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+ <img alt="TF" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
   <img alt="TF" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/> 
-  <img alt="TF" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/> 
+  <br/>
+  <img alt="TF" src="https://www.codewars.com/users/DevanshMathur10/badges/micro"/> 
 </p>
 
 <h4 align='center'><strong>Operating Systems</strong></h4>
