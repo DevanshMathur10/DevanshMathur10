@@ -6,13 +6,6 @@
 <h3 align="center"><img src="images/rainbow.png"/></h3>
 <h3 align='center'>Entities i use for coding <img src="https://slackmojis.com/emojis/7421-typingcat/download" width="20"></h3>
 
-<h4 align='center'><strong>Tools</strong></h4>
-
-<p align='center'>
- <img alt="TF" src="https://img.shields.io/badge/VS%20Code-373b42?style=for-the-badge&logo=visual-studio-code&logoColor=black"/>
- <!--<img alt="TF" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>-->
- 
-</p>
 <h4 align='center'><strong>Languages</strong></h4>
 
 <p align='center'>
@@ -40,6 +33,15 @@
   <img alt="TF" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/> 
   <br/>
   <img alt="TF" src="https://www.codewars.com/users/DevanshMathur10/badges/micro"/> 
+</p>
+
+
+<h4 align='center'><strong>Tools</strong></h4>
+
+<p align='center'>
+ <img alt="TF" src="https://img.shields.io/badge/VS%20Code-373b42?style=for-the-badge&logo=visual-studio-code&logoColor=black"/>
+ <!--<img alt="TF" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>-->
+ 
 </p>
 
 <h4 align='center'><strong>Operating Systems</strong></h4>
