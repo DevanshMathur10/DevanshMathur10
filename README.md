@@ -11,7 +11,7 @@
 <p align='center'>
  <img alt="TF" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
  <img alt="TF" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
- <img alt="TF" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+ <img alt="TF" src="https://img.shields.io/badge/c++-62804a?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
  <img alt="TF" src="https://img.shields.io/badge/OCTAVE-ffffff?style=for-the-badge&logo=octave&logoColor=fcd683"/>
 
 </p>
@@ -30,7 +30,7 @@
 <p align='center'>
   <img alt="TF" src="https://img.shields.io/badge/CodeChef-ffffff?style=for-the-badge&logo=CodeChef&logoColor=69564d"/>
  <img alt="TF" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
-  <img alt="TF" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/> 
+  <img alt="TF" src="https://img.shields.io/badge/Codeforces-purple?style=for-the-badge&logo=Codeforces&logoColor=white"/> 
   <br/>
   <img alt="TF" src="https://www.codewars.com/users/DevanshMathur10/badges/micro"/> 
 </p>
@@ -57,9 +57,9 @@
 </p>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Edlexic&theme=dracula&hide_border=true&show_icons=true" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Heatherbit&theme=dracula&hide_border=true&show_icons=true" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Sicurezza&theme=dracula&hide_border=true&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Heatherbit&theme=dracula&hide_border=true&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Edlexic&theme=dracula&hide_border=true&show_icons=true" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Sancturit&theme=dracula&hide_border=true&show_icons=true" />
   
 </p>
