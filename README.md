@@ -53,25 +53,25 @@
 </p>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshMathur10&theme=dracula&hide_border=true&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=DevanshMathur10&theme=dracula&hide_border=true&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshMathur10&theme=dark&hide_border=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=DevanshMathur10&theme=dark&hide_border=true&show_icons=true" />
 </p>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Sicurezza&theme=dracula&hide_border=true&show_icons=true" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Heatherbit&theme=dracula&hide_border=true&show_icons=true" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Edlexic&theme=dracula&hide_border=true&show_icons=true" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Sancturit&theme=dracula&hide_border=true&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Sicurezza&theme=dark&hide_border=true&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Heatherbit&theme=dark&hide_border=true&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Edlexic&theme=dark&hide_border=true&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevanshMathur10&repo=Sancturit&theme=dark&hide_border=true&show_icons=true" />
   
 </p>
  
 <p align="center">
     
-  <img align='center' src="https://activity-graph.herokuapp.com/graph?username=DevanshMathur10&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
+  <img align='center' src="https://activity-graph.herokuapp.com/graph?username=DevanshMathur10&theme=react-dark&bg_color=131414&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=DevanshMathur10&label=Profile Views&color=blueviolet&style=for-the-badge" alt="Devansh Mathur" /> 
+ <img src="https://komarev.com/ghpvc/?username=DevanshMathur10&label=Profile Views&color=03174d&style=for-the-badge" alt="Devansh Mathur" /> 
 </p>
 
 
