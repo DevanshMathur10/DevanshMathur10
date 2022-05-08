@@ -2,7 +2,9 @@
 <img src="images/backvid1.gif" width="1799" height="450"/>
 
 <h3 align='center'>Hello There! <img src="https://slackmojis.com/emojis/8809-wave_hello/download" width="20"></h3>
-<h3 align="center"><img src="images/rainbow.png"/></h3>
+
+<h3 align="center"><img src="images/blue1.png" width='1200' height='9' /></h3>
+
 <h3 align='center'>Entities i use for coding <img src="https://slackmojis.com/emojis/7421-typingcat/download" width="20"></h3>
 
 <h4 align='center'><strong>Languages</strong></h4>
