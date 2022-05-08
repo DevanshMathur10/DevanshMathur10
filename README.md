@@ -15,11 +15,11 @@
  <img alt="TF" src="https://img.shields.io/badge/OCTAVE-ffffff?style=for-the-badge&logo=octave&logoColor=fcd683"/>
 
 </p>
-
+<!--
 <h4 align='center'><strong>Machine Learning</strong></h4>
 <p align='center'>
   <img alt="TF" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
-</p>
+</p>-->
 
 <h4 align='center'><strong>Database</strong></h4>
 <p align='center'>
