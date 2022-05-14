@@ -68,7 +68,7 @@
 <p align="center">
     
   <img align='center' src="https://activity-graph.herokuapp.com/graph?username=DevanshMathur10&theme=react-dark&bg_color=131414&hide_border=true" width="100%"/>
- <img align= "center" src="images/contri (2).gif" width="900" height="300"/>
+ <img align= "center" src="images/contri (2).gif" width="800" height="300"/>
 </p>
 
 
