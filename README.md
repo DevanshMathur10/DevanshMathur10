@@ -68,7 +68,10 @@
 <p align="center">
     
   <img align='center' src="https://activity-graph.herokuapp.com/graph?username=DevanshMathur10&theme=react-dark&bg_color=131414&hide_border=true" width="100%"/>
+ <img align= "center" src="images/contri (2).gif" width="900" height="300"/>
 </p>
+
+
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=DevanshMathur10&label=Profile Views&color=03174d&style=for-the-badge" alt="Devansh Mathur" /> 
