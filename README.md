@@ -14,8 +14,14 @@
  <img alt="TF" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
  <img alt="TF" src="https://img.shields.io/badge/c++-13194d?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
  <img alt="TF" src="https://img.shields.io/badge/OCTAVE-ffffff?style=for-the-badge&logo=octave&logoColor=fcd683"/>
-
 </p>
+
+<h4 align='center'><strong>Frameworks</strong></h4>
+ <p align='center'>
+ <img alt="TF" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> 
+ <img alt="TF" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+</p>
+
 <!--
 <h4 align='center'><strong>Machine Learning</strong></h4>
 <p align='center'>
