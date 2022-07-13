@@ -32,11 +32,6 @@
   <img alt="TF" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
 </p>-->
 
-<h4 align='center'><strong>Database</strong></h4>
-<p align='center'>
-  <img alt="TF" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
-</p>
-
 <h4 align='center'><strong>Competitive Coding</strong></h4>
 <p align='center'>
   <img alt="TF" src="https://img.shields.io/badge/CodeChef-ffffff?style=for-the-badge&logo=CodeChef&logoColor=69564d"/>
@@ -46,6 +41,10 @@
   <img alt="TF" src="https://www.codewars.com/users/DevanshMathur10/badges/micro"/> 
 </p>
 
+<h4 align='center'><strong>Database</strong></h4>
+<p align='center'>
+  <img alt="TF" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
+</p>
 
 <h4 align='center'><strong>Tools</strong></h4>
 
