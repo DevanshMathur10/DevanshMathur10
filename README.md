@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/backvid1.gif" width="880" height="450"/>
+<img src="images/backvid1.gif" width="800" height="450"/>
 </p>
 <h3 align='center'>Hello There! <img src="https://slackmojis.com/emojis/8809-wave_hello/download" width="20"></h3>
 
