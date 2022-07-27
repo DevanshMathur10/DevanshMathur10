@@ -1,6 +1,6 @@
-
-<img src="images/backvid1.gif" width="1020" height="450"/>
-
+<p align="center">
+<img src="images/backvid1.gif" width="980" height="450"/>
+</p>
 <h3 align='center'>Hello There! <img src="https://slackmojis.com/emojis/8809-wave_hello/download" width="20"></h3>
 
 <h3 align="center"><img src="images/blue1.png" width='1200' height='9' /></h3>
