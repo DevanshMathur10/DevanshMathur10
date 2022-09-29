@@ -7,20 +7,20 @@
 
 <h3 align='center'>Entities i use for coding <img src="https://slackmojis.com/emojis/7421-typingcat/download" width="20"></h3>
 
-<h4 align='center'><strong>Languages</strong></h4>
+<h4 align='center'><strong>Proficient in</strong></h4>
 
 <p align='center'>
  <img alt="TF" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
- <img alt="TF" src="https://img.shields.io/badge/c++-13194d?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
- <img alt="TF" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
  <img alt="TF" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+ <img alt="TF" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
- 
 </p>
 
 <h4 align='center'><strong>With knowledge of</strong></h4>
 
 <p align='center'>
+<img alt="TF" src="https://img.shields.io/badge/c++-13194d?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+ <img alt="TF" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
  <img alt="TF" src="https://img.shields.io/badge/OCTAVE-ffffff?style=for-the-badge&logo=octave&logoColor=fcd683"/>
  <img alt="TF" src="https://img.shields.io/badge/CSS-78aafa?style=for-the-badge&logo=CSS3&logoColor=ffffff"/>
  <img alt="TF" src="https://img.shields.io/badge/hashcat-black?style=for-the-badge&logo=github"/>
@@ -39,6 +39,9 @@
   <img alt="TF" src="https://img.shields.io/badge/CodeChef-ffffff?style=for-the-badge&logo=CodeChef&logoColor=69564d"/>
  <img alt="TF" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
   <img alt="TF" src="https://img.shields.io/badge/Codeforces-545666?style=for-the-badge&logo=Codeforces&logoColor=white"/> 
+  <img alt="TF" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06e"/> 
+  <img alt="TF" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/> 
+  <img alt="TF" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
   <br>
   <img alt="TF" src="https://www.codewars.com/users/DevanshMathur10/badges/micro"/> 
 </p>
@@ -60,7 +63,7 @@
 <p align='center'>
   <img alt="TF" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img alt="TF" src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white"/> 
-  <img alt="TF" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
+  <!---<img alt="TF" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> --->
 </p>
 
 <p align="center">
