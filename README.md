@@ -46,7 +46,8 @@
 
 <h4 align='center'><strong>Database</strong></h4>
 <p align='center'>
-  <img alt="TF" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img alt="TF" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img alt="TF" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> 
 </p>
 
 <h4 align='center'><strong>Tools</strong></h4>
