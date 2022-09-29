@@ -42,8 +42,6 @@
   <img alt="TF" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06e"/> 
   <img alt="TF" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/> 
   <img alt="TF" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
-  <br>
-  <img alt="TF" src="https://www.codewars.com/users/DevanshMathur10/badges/micro"/> 
 </p>
 
 <h4 align='center'><strong>Database</strong></h4>
