@@ -24,8 +24,10 @@
  <img alt="TF" src="https://img.shields.io/badge/OCTAVE-ffffff?style=for-the-badge&logo=octave&logoColor=fcd683"/>
  <img alt="TF" src="https://img.shields.io/badge/CSS-78aafa?style=for-the-badge&logo=CSS3&logoColor=ffffff"/>
  <img alt="TF" src="https://img.shields.io/badge/hashcat-black?style=for-the-badge&logo=github"/>
- <img alt="TF" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
- <img alt="TF" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> 
+ 
+ <img alt="TF" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+ <!--<img alt="TF" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/> -->
+ 
  <img alt="TF" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 </p>
 <!--
