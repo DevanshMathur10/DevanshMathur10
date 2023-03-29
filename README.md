@@ -11,14 +11,14 @@
 
 <p align='center'>
  <img alt="TF" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
- <img alt="TF" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
- <img alt="TF" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
+ <img alt="TF" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img alt="TF" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 </p>
 
 <h4 align='center'><strong>With knowledge of</strong></h4>
 
 <p align='center'>
+ <img alt="TF" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="TF" src="https://img.shields.io/badge/c++-13194d?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
  <img alt="TF" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
  <img alt="TF" src="https://img.shields.io/badge/OCTAVE-ffffff?style=for-the-badge&logo=octave&logoColor=fcd683"/>
